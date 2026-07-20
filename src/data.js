@@ -19,7 +19,7 @@ export const INTERESTS = [
   "CFD & Fluid Dynamics",
   "Propulsion Systems",
   "Orbital Mechanics",
-  "UAV Design",
+  "UAV",
 ];
 
 
